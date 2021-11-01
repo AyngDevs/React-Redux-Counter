@@ -1,0 +1,1 @@
+export const getContadorValue = state => state.counter.value || 0;
