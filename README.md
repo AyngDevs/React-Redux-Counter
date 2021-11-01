@@ -1,6 +1,6 @@
 # Getting Started with Create React App and Redux
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-Project structure based on Redux[React-Redux](https://react-redux.js.org/introduction/getting-started).
+Project structure based on [React-Redux](https://react-redux.js.org/introduction/getting-started).
 
 ### Steps to use this app
 #### 1. Install packages
